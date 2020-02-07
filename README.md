@@ -5,7 +5,7 @@ O jogo foi criado utilizando a linguagem JavaScript, e o Web-Server foi feito em
 
 
 COMO JOGAR:
-Para jogar basta iniciar o arquivo web-server.py, logo após abrir o navegador e colar: http://127.0.0.1:8000/
+Para jogar basta iniciar o arquivo run.bat
 
 Desenvolvedor:
 
